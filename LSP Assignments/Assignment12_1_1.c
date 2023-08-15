@@ -11,7 +11,7 @@ int main()
 {
     int fd[2];
     int iRet = 0;
-    char iNo [] = "Maitreya";
+    char iNo [] = "Shivam";
     char Buffer[100];
 
     if(pipe(fd) == -1)
